@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "María",
+    "apellido": "González",
+    "edad": 30,
+    "sexo": "Femenino",
+    "nivel_academico": "Licenciatura",
+    "titulos": "Ingeniera Industrial",
+    "cedula_identidad": 21868741
+  },
+  {
+    "nombre": "Juan",
+    "apellido": "Rodríguez",
+    "edad": 28,
+    "sexo": "Masculino",
+    "nivel_academico": "Maestría",
+    "titulos": "Arquitecto",
+    "cedula_identidad": 22077002
+  },
+  {
+    "nombre": "Luisa",
+    "apellido": "Martínez",
+    "edad": 35,
+    "sexo": "Femenino",
+    "nivel_academico": "Doctorado",
+    "titulos": "Doctora en Medicina",
+    "cedula_identidad": 23120853
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "López",
+    "edad": 32,
+    "sexo": "Masculino",
+    "nivel_academico": "Licenciatura",
+    "titulos": "Abogado",
+    "cedula_identidad": 24000004
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "Sánchez",
+    "edad": 27,
+    "sexo": "Femenino",
+    "nivel_academico": "Licenciatura",
+    "titulos": "Contadora Pública",
+    "cedula_identidad": 25644845
+  },
+  {
+    "nombre": "Pedro",
+    "apellido": "Ramírez",
+    "edad": 31,
+    "sexo": "Masculino",
+    "nivel_academico": "Maestría",
+    "titulos": "Ingeniero de Sistemas",
+    "cedula_identidad": 26066766
+  },
+  {
+    "nombre": "Laura",
+    "apellido": "Torres",
+    "edad": 29,
+    "sexo": "Femenino",
+    "nivel_academico": "Doctorado",
+    "titulos": "Investigadora Científica",
+    "cedula_identidad": 27250487
+  },
+  {
+    "nombre": "Miguel",
+    "apellido": "Hernández",
+    "edad": 33,
+    "sexo": "Masculino",
+    "nivel_academico": "Doctorado",
+    "titulos": "Doctor en Economía",
+    "cedula_identidad": 28009978
+  },
+  {
+    "nombre": "Valeria",
+    "apellido": "Pérez",
+    "edad": 26,
+    "sexo": "Femenino",
+    "nivel_academico": "Licenciatura",
+    "titulos": "Psicóloga",
+    "cedula_identidad": 29000009
+  },
+  {
+    "nombre": "Javier",
+    "apellido": "García",
+    "edad": 34,
+    "sexo": "Masculino",
+    "nivel_academico": "Maestría",
+    "titulos": "Administrador de Empresas",
+    "cedula_identidad": 30000010
+  }
+]
