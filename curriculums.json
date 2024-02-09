@@ -4,89 +4,119 @@
     "apellido": "González",
     "edad": 30,
     "sexo": "Femenino",
-    "nivel_academico": "Licenciatura",
-    "titulos": "Ingeniera Industrial",
-    "cedula_identidad": 21868741
+    "educacion": "Ingenieria",
+    "area": "Ingeniera Industrial",
+    "cedula_identidad": 21868741,
+    "resumen": "Soy una ingeniera industrial apasionada por la optimización de procesos y la mejora continua. Tengo experiencia en el diseño e implementación de soluciones eficientes para la industria. Me considero una persona proactiva, creativa y orientada a resultados.",
+    "conocimientos_tecnicos": "Gestión de proyectos, análisis de datos, mejora de procesos, Lean Manufacturing, Six Sigma",
+    "intereses_personales": "Me gusta mantenerme actualizada en las últimas tendencias de la industria, disfruto de la lectura y practico yoga en mi tiempo libre."
   },
   {
     "nombre": "Juan",
     "apellido": "Rodríguez",
     "edad": 28,
     "sexo": "Masculino",
-    "nivel_academico": "Maestría",
-    "titulos": "Arquitecto",
-    "cedula_identidad": 22077002
+    "educacion": "Maestría",
+    "area": "Arquitecto",
+    "cedula_identidad": 22077002,
+    "resumen": "Soy un arquitecto apasionado por el diseño innovador y sostenible. Tengo experiencia en la creación de espacios funcionales y estéticamente atractivos. Me considero una persona detallista, creativa y comprometida con la calidad en cada proyecto.",
+    "conocimientos_tecnicos": "Diseño arquitectónico, modelado 3D, AutoCAD, Revit, gestión de proyectos",
+    "intereses_personales": "Me encanta explorar nuevas corrientes arquitectónicas y visitar edificios icónicos alrededor del mundo. También disfruto de la fotografía y la pintura en mi tiempo libre."
   },
   {
     "nombre": "Luisa",
     "apellido": "Martínez",
     "edad": 35,
     "sexo": "Femenino",
-    "nivel_academico": "Doctorado",
-    "titulos": "Doctora en Medicina",
-    "cedula_identidad": 23120853
+    "educacion": "Doctorado",
+    "area": "Doctora en Medicina",
+    "cedula_identidad": 23120853,
+    "resumen": "Soy una doctora en medicina especializada en medicina interna. Tengo experiencia en el diagnóstico y tratamiento de diversas enfermedades. Me considero una persona empática, dedicada y comprometida con brindar la mejor atención médica a mis pacientes.",
+    "conocimientos_tecnicos": "Diagnóstico médico, tratamiento de enfermedades, medicina interna, investigación clínica",
+    "intereses_personales": "Me apasiona la medicina basada en evidencia y estoy siempre en busca de nuevas terapias y avances médicos. En mi tiempo libre, disfruto de la lectura y la práctica de actividades al aire libre."
   },
   {
     "nombre": "Carlos",
     "apellido": "López",
     "edad": 32,
     "sexo": "Masculino",
-    "nivel_academico": "Licenciatura",
-    "titulos": "Abogado",
-    "cedula_identidad": 24000004
+    "educacion": "Licenciatura",
+    "area": "Abogado",
+    "cedula_identidad": 24000004,
+    "resumen": "Soy un abogado con experiencia en derecho corporativo y resolución de conflictos. Tengo habilidades para el análisis legal y la redacción de documentos legales. Me considero una persona organizada, analítica y con una gran capacidad de negociación.",
+    "conocimientos_tecnicos": "Derecho corporativo, contratos, resolución de conflictos, redacción legal, negociación",
+    "intereses_personales": "Me interesa estar al tanto de los cambios en las leyes y regulaciones. Fuera del ámbito legal, disfruto de la música y soy aficionado al fútbol."
   },
   {
     "nombre": "Ana",
     "apellido": "Sánchez",
     "edad": 27,
     "sexo": "Femenino",
-    "nivel_academico": "Licenciatura",
-    "titulos": "Contadora Pública",
-    "cedula_identidad": 25644845
+    "educacion": "Licenciatura",
+    "area": "Contadora Pública",
+    "cedula_identidad": 25644845,
+    "resumen": "Soy una contadora pública con experiencia en auditoría y gestión financiera. Tengo habilidades analíticas y una sólida comprensión de los principios contables. Me considero una persona meticulosa, comprometida yenfocada en brindar información financiera precisa y oportuna.",
+    "conocimientos_tecnicos": "Auditoría financiera, contabilidad, análisis financiero, gestión presupuestaria, software contable",
+    "intereses_personales": "Me gusta estar al tanto de las actualizaciones en las normas contables y las tendencias en el campo financiero. Fuera del trabajo, disfruto de la cocina y la práctica de deportes como el tenis."
   },
   {
     "nombre": "Pedro",
     "apellido": "Ramírez",
     "edad": 31,
     "sexo": "Masculino",
-    "nivel_academico": "Maestría",
-    "titulos": "Ingeniero de Sistemas",
-    "cedula_identidad": 26066766
+    "educacion": "Maestría",
+    "area": "Ingeniero de Sistemas",
+    "cedula_identidad": 26066766,
+    "resumen": "Soy un ingeniero de sistemas especializado en el desarrollo de software. Tengo experiencia en la creación de aplicaciones web y móviles. Me considero una persona creativa, orientada a resultados y apasionada por la resolución de problemas tecnológicos.",
+    "conocimientos_tecnicos": "Desarrollo de software, programación, bases de datos, diseño de interfaces, metodologías ágiles",
+    "intereses_personales": "Estoy interesado en la inteligencia artificial y la implementación de tecnologías emergentes. En mi tiempo libre, disfruto de los videojuegos y la práctica de deportes al aire libre."
   },
   {
     "nombre": "Laura",
     "apellido": "Torres",
     "edad": 29,
     "sexo": "Femenino",
-    "nivel_academico": "Doctorado",
-    "titulos": "Investigadora Científica",
-    "cedula_identidad": 27250487
+    "educacion": "Doctorado",
+    "area": "Investigadora Científica",
+    "cedula_identidad": 27250487,
+    "resumen": "Soy una investigadora científica con experiencia en biología molecular y genética. He participado en proyectos de investigación y publicado artículos científicos. Me considero una persona curiosa, metódica y comprometida con el avance del conocimiento científico.",
+    "conocimientos_tecnicos": "Biología molecular, genética, técnicas de laboratorio, análisis de datos, publicación científica",
+    "intereses_personales": "Me apasiona la investigación en áreas de vanguardia y el descubrimiento de nuevos avances científicos. Fuera del laboratorio, disfruto de la lectura y la práctica de actividades al aire libre."
   },
   {
     "nombre": "Miguel",
     "apellido": "Hernández",
     "edad": 33,
     "sexo": "Masculino",
-    "nivel_academico": "Doctorado",
-    "titulos": "Doctor en Economía",
-    "cedula_identidad": 28009978
+    "educacion": "Doctorado",
+    "area": "Doctor en Economía",
+    "cedula_identidad": 28009978,
+    "resumen": "Soy un economista especializado en análisis económico. Tengo experiencia en el análisis de datos, modelado económico y formulación de políticas. Me considero una persona analítica, orientada a resultados y comprometida con el desarrollo económico sostenible.",
+    "conocimientos_tecnicos": "Análisis económico, modelado económico, estadística, formulación de políticas, software económico",
+    "intereses_personales": "Me interesan las tendencias económicas globales y los impactos de las políticas públicas. Fuera del ámbito económico, disfruto de la música y la práctica del senderismo."
   },
   {
     "nombre": "Valeria",
     "apellido": "Pérez",
     "edad": 26,
     "sexo": "Femenino",
-    "nivel_academico": "Licenciatura",
-    "titulos": "Psicóloga",
-    "cedula_identidad": 29000009
+    "educacion": "Licenciatura",
+    "area": "Psicóloga",
+    "cedula_identidad": 29000009,
+    "resumen": "Soy una psicóloga con experiencia en terapia individual y grupal. Tengo habilidades para el diagnóstico y tratamiento de trastornos mentales. Me considero una persona empática, compasiva y dedicada a ayudar a los demás en su bienestar psicológico.",
+    "conocimientos_tecnicos": "Terapia psicológica, evaluación psicológica, trastornos mentales, técnicas de intervención",
+    "intereses_personales": "Me interesa la psicología positiva y el desarrollo personal. Fuera del trabajo, disfruto de la música y la práctica de actividades al aire libre."
   },
   {
-    "nombre": "Javier",
-    "apellido": "García",
-    "edad": 34,
-    "sexo": "Masculino",
-    "nivel_academico": "Maestría",
-    "titulos": "Administrador de Empresas",
-    "cedula_identidad": 30000010
+  "nombre": "Javier",
+  "apellido": "García",
+  "edad": 34,
+  "sexo": "Masculino",
+  "educacion": "Maestría",
+  "area": "Diseñador Gráfico",
+  "cedula_identidad": 30123456,
+  "resumen": "Soy un diseñador gráfico creativo y apasionado con experiencia en diseño de logotipos, branding y diseño de interfaces. Tengo habilidades en el uso de herramientas de diseño gráfico y una sólida comprensión de los principios de diseño. Me considero una persona detallista, orientada a los detalles y comprometida con la creación de diseños visuales impactantes.",
+  "conocimientos_tecnicos": "Diseño gráfico, Adobe Creative Suite, diseño de logotipos, diseño de interfaces, branding",
+  "intereses_personales": "Me gusta estar al tanto de las últimas tendencias en diseño y explorar nuevas técnicas y enfoques creativos. En mi tiempo libre, disfruto de la ilustración y la práctica de deportes como el ciclismo."
   }
 ]
