@@ -30,3 +30,6 @@ while option.upper() != "EXIT":
 
     if option in OPTIONS.keys():
         OPTIONS[option](CURRICULUMS)
+
+# {"name": "Henry"}
+# {"employee": "Developer"}
