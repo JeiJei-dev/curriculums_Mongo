@@ -5,28 +5,56 @@
       "nombre": "Juan Pérez",
       "cedula": "28456928",
       "direccion": "Calle Principal 123",
-      "telefonos": ["123-456-789", "987-654-321"],
+      "telefonos": [
+        "123-456-789",
+        "987-654-321"
+      ],
       "email": "juanperez@example.com",
-      "redesSociales": ["Facebook: Juanito Pérez", "Twitter: @juanito"]
+      "redesSociales": [
+        "Facebook: Juanito Pérez",
+        "Twitter: @juanito"
+      ]
     },
     "educacion": {
       "ensenanzaBasica": "Colegio San José",
       "ensenanzaMedia": "Liceo Nacional",
       "educacionUniversitaria": "Ingeniería en Informática",
-      "otros": ["Curso de programación", "Curso de inglés"]
+      "otros": [
+        "Curso de programación",
+        "Curso de inglés"
+      ]
     },
     "laboral": {
       "pasantia": [
-        {"empresa": "ABC Tech", "descripción": "Desarrollador Junior"},
-        {"empresa": "XYZ Software", "descripción": "Analista de Datos"}
+        {
+          "empresa": "ABC Tech",
+          "descripción": "Desarrollador Junior"
+        },
+        {
+          "empresa": "XYZ Software",
+          "descripción": "Analista de Datos"
+        }
       ],
       "trabajos": [
-        {"tipo": "Freelancer", "descripción": "Desarrollo de sitio web para cliente X"},
-        {"tipo": "Empleado", "descripción": "Desarrollador Full Stack"}
+        {
+          "tipo": "Freelancer",
+          "descripción": "Desarrollo de sitio web para cliente X"
+        },
+        {
+          "tipo": "Empleado",
+          "descripción": "Desarrollador Full Stack"
+        }
       ]
     },
-    "conocimientosTecnicos": ["JavaScript", "HTML", "CSS"],
-    "interesesPersonales": ["Música", "Deporte"]
+    "conocimientosTecnicos": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "interesesPersonales": [
+      "Música",
+      "Deporte"
+    ]
   },
   {
     "resumen": "Soy una diseñadora gráfica creativa y apasionada por el arte visual. Tengo experiencia en el diseño de logotipos, materiales publicitarios y diseño web.",
@@ -34,28 +62,56 @@
       "nombre": "María López",
       "cedula": "29874563",
       "direccion": "Avenida Principal 456",
-      "telefonos": ["234-567-890", "876-543-210"],
+      "telefonos": [
+        "234-567-890",
+        "876-543-210"
+      ],
       "email": "marialopez@example.com",
-      "redesSociales": ["Instagram: @marialopez", "Behance: María López"]
+      "redesSociales": [
+        "Instagram: @marialopez",
+        "Behance: María López"
+      ]
     },
     "educacion": {
       "ensenanzaBasica": "Colegio San Lucas",
       "ensenanzaMedia": "Liceo Nacional",
       "educacionUniversitaria": "Diseño Gráfico",
-      "otros": ["Curso de ilustración", "Curso de fotografía"]
+      "otros": [
+        "Curso de ilustración",
+        "Curso de fotografía"
+      ]
     },
     "laboral": {
       "pasantia": [
-        {"empresa": "Creative Design Studio", "descripción": "Diseñadora Junior"},
-        {"empresa": "Big Advertising Agency", "descripción": "Diseñadora Gráfica"}
+        {
+          "empresa": "Creative Design Studio",
+          "descripción": "Diseñadora Junior"
+        },
+        {
+          "empresa": "Big Advertising Agency",
+          "descripción": "Diseñadora Gráfica"
+        }
       ],
       "trabajos": [
-        {"tipo": "Freelancer", "descripción": "Diseño de logotipos para diversos clientes"},
-        {"tipo": "Empleado", "descripción": "Diseñadora Web"}
+        {
+          "tipo": "Freelancer",
+          "descripción": "Diseño de logotipos para diversos clientes"
+        },
+        {
+          "tipo": "Empleado",
+          "descripción": "Diseñadora Web"
+        }
       ]
     },
-    "conocimientosTecnicos": ["Adobe Photoshop", "Adobe Illustrator", "Diseño web"],
-    "interesesPersonales": ["Arte", "Viajes"]
+    "conocimientosTecnicos": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Diseño web"
+    ],
+    "interesesPersonales": [
+      "Arte",
+      "Viajes"
+    ]
   },
   {
     "resumen": "Soy un ingeniero civil con experiencia en el diseño y construcción de estructuras de gran envergadura. Me apasiona la ingeniería y la resolución de desafíos técnicos.",
@@ -63,28 +119,56 @@
       "nombre": "Pedro Ramírez",
       "cedula": "31547896",
       "direccion": "Carrera Principal 789",
-      "telefonos": ["345-678-901", "765-432-109"],
+      "telefonos": [
+        "345-678-901",
+        "765-432-109"
+      ],
       "email": "pedroramirez@example.com",
-      "redesSociales": ["LinkedIn: Pedro Ramírez", "Twitter: @pedroramirez"]
+      "redesSociales": [
+        "LinkedIn: Pedro Ramírez",
+        "Twitter: @pedroramirez"
+      ]
     },
     "educacion": {
       "ensenanzaBasica": "Colegio San Marcos",
       "ensenanzaMedia": "Liceo Nacional",
       "educacionUniversitaria": "Ingeniería Civil",
-      "otros": ["Curso de cálculo estructural", "Curso de gestión de proyectos"]
+      "otros": [
+        "Curso de cálculo estructural",
+        "Curso de gestión de proyectos"
+      ]
     },
     "laboral": {
       "pasantia": [
-        {"empresa": "Construction Engineering Firm", "descripción": "Ingeniero Junior"},
-        {"empresa": "Big Construction Company", "descripción": "Ingeniero Civil"}
+        {
+          "empresa": "Construction Engineering Firm",
+          "descripción": "Ingeniero Junior"
+        },
+        {
+          "empresa": "Big Construction Company",
+          "descripción": "Ingeniero Civil"
+        }
       ],
       "trabajos": [
-        {"tipo": "Freelancer", "desarrollo de proyectos de construcción para clientes"},
-        {"tipo": "Empleado", "descripción": "Ingeniero de Estructuras"}
+        {
+          "tipo": "Freelancer",
+          "descripción": "desarrollo de proyectos de construcción para clientes"
+        },
+        {
+          "tipo": "Empleado",
+          "descripción": "Ingeniero de Estructuras"
+        }
       ]
     },
-    "conocimientosTecnicos": ["AutoCAD", "Análisis estructural", "Gestión de proyectos"],
-    "interesesPersonales": ["Arquitectura", "Senderismo"]
+    "conocimientosTecnicos": [
+      "AutoCAD",
+      "Análisis estructural",
+      "Gestión de proyectos"
+    ],
+    "interesesPersonales": [
+      "Arquitectura",
+      "Senderismo"
+    ]
   },
   {
     "resumen": "Soy una periodista apasionada por la comunicación y la investigación. Tengo experiencia en la redacción de noticias, reportajes y entrevistas.",
@@ -92,28 +176,56 @@
       "nombre": "Ana Gómez",
       "cedula": "27894561",
       "direccion": "Plaza Principal 987",
-      "telefonos": ["456-789-012", "654-321-098"],
+      "telefonos": [
+        "456-789-012",
+        "654-321-098"
+      ],
       "email": "anagomez@example.com",
-      "redesSociales": ["Twitter: @anagomez", "LinkedIn: Ana Gómez"]
+      "redesSociales": [
+        "Twitter: @anagomez",
+        "LinkedIn: Ana Gómez"
+      ]
     },
     "educacion": {
       "ensenanzaBasica": "Colegio San Juan",
       "ensenanzaMedia": "Liceo Nacional",
       "educacionUniversitaria": "Comunicación Social",
-      "otros": ["Curso de periodismo investigativo", "Curso de edición de video"]
+      "otros": [
+        "Curso de periodismo investigativo",
+        "Curso de edición de video"
+      ]
     },
     "laboral": {
       "pasantia": [
-        {"empresa": "Local News Channel", "descripción": "Periodista en formación"},
-        {"empresa": "National Newspaper", "descripción": "Periodista Investigativa"}
+        {
+          "empresa": "Local News Channel",
+          "descripción": "Periodista en formación"
+        },
+        {
+          "empresa": "National Newspaper",
+          "descripción": "Periodista Investigativa"
+        }
       ],
       "trabajos": [
-        {"tipo": "Freelancer", "descripción": "Redacción de artículos para revistas"},
-        {"tipo": "Empleado", "descripción": "Periodista de noticias"}
+        {
+          "tipo": "Freelancer",
+          "descripción": "Redacción de artículos para revistas"
+        },
+        {
+          "tipo": "Empleado",
+          "descripción": "Periodista de noticias"
+        }
       ]
     },
-    "conocimientosTecnicos": ["Redacción", "Investigación periodística", "Edición de video"],
-    "interesesPersonales": ["Literatura", "Fotografía"]
+    "conocimientosTecnicos": [
+      "Redacción",
+      "Investigación periodística",
+      "Edición de video"
+    ],
+    "interesesPersonales": [
+      "Literatura",
+      "Fotografía"
+    ]
   },
   {
     "resumen": "Soy un chef con experiencia en la cocina internacional y una pasión por la creación de platos únicos y deliciosos. Me encanta experimentar con nuevos ingredientes y técnicas culinarias.",
@@ -121,28 +233,56 @@
       "nombre": "Carlos Fernández",
       "cedula": "23781456",
       "direccion": "Avenida Principal 654",
-      "telefonos": ["567-890-123", "765-432-109"],
+      "telefonos": [
+        "567-890-123",
+        "765-432-109"
+      ],
       "email": "carlosfernandez@example.com",
-      "redesSociales": ["Instagram: @carlosfernandez", "Facebook: Chef Carlos"]
+      "redesSociales": [
+        "Instagram: @carlosfernandez",
+        "Facebook: Chef Carlos"
+      ]
     },
     "educacion": {
       "ensenanzaBasica": "Colegio San Miguel",
       "ensenanzaMedia": "Liceo Nacional",
       "educacionUniversitaria": "Culinaria Internacional",
-      "otros": ["Curso de pastelería", "Curso de enología"]
+      "otros": [
+        "Curso de pastelería",
+        "Curso de enología"
+      ]
     },
     "laboral": {
       "pasantia": [
-        {"empresa": "Fine Dining Restaurant", "descripción": "Chef en formación"},
-        {"empresa": "Gourmet Catering Company", "descripción": "Chef Ejecutivo"}
+        {
+          "empresa": "Fine Dining Restaurant",
+          "descripción": "Chef en formación"
+        },
+        {
+          "empresa": "Gourmet Catering Company",
+          "descripción": "Chef Ejecutivo"
+        }
       ],
       "trabajos": [
-        {"tipo": "Freelancer", "descripción": "Catering para eventos especiales"},
-        {"tipo": "Empleado", "descripción": "Chef de cocina en restaurante"}
+        {
+          "tipo": "Freelancer",
+          "descripción": "Catering para eventos especiales"
+        },
+        {
+          "tipo": "Empleado",
+          "descripción": "Chef de cocina en restaurante"
+        }
       ]
     },
-    "conocimientosTecnicos": ["Cocina francesa", "Cocina asiática", "Pastelería"],
-    "interesesPersonales": ["Viajes", "Enología"]
+    "conocimientosTecnicos": [
+      "Cocina francesa",
+      "Cocina asiática",
+      "Pastelería"
+    ],
+    "interesesPersonales": [
+      "Viajes",
+      "Enología"
+    ]
   },
   {
     "resumen": "Soy un ingeniero informático con experiencia en desarrollo de software y administración de bases de datos. Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos desafiantes.",
@@ -150,15 +290,24 @@
       "nombre": "Ana Martínez",
       "cedula": "45896321",
       "direccion": "Avenida Principal 789",
-      "telefonos": ["987-654-321", "123-456-789"],
+      "telefonos": [
+        "987-654-321",
+        "123-456-789"
+      ],
       "email": "anamartinez@example.com",
-      "redesSociales": ["Facebook: Ana Martínez", "Twitter: @anamart"]
+      "redesSociales": [
+        "Facebook: Ana Martínez",
+        "Twitter: @anamart"
+      ]
     },
     "educacion": {
       "ensenanzaBasica": "Colegio San Juan",
       "ensenanzaMedia": "Liceo Nacional",
       "educacionUniversitaria": "Ingeniería en Informática",
-      "otros": ["Curso de desarrollo de aplicaciones móviles", "Certificación en gestión de proyectos"]
+      "otros": [
+        "Curso de desarrollo de aplicaciones móviles",
+        "Certificación en gestión de proyectos"
+      ]
     },
     "laboral": {
       "pasantia": [
@@ -182,8 +331,15 @@
         }
       ]
     },
-    "conocimientosTecnicos": ["Java", "SQL", "AWS"],
-    "interesesPersonales": ["Literatura", "Cocina"]
+    "conocimientosTecnicos": [
+      "Java",
+      "SQL",
+      "AWS"
+    ],
+    "interesesPersonales": [
+      "Literatura",
+      "Cocina"
+    ]
   },
   {
     "resumen": "Soy una ingeniera informática con pasión por la programación y las soluciones tecnológicas innovadoras. Me enfoco en el desarrollo web y tengo experiencia trabajando en proyectos desafiantes.",
@@ -191,15 +347,24 @@
       "nombre": "María González",
       "cedula": "29874563",
       "direccion": "Avenida Principal 456",
-      "telefonos": ["321-654-987", "789-456-123"],
+      "telefonos": [
+        "321-654-987",
+        "789-456-123"
+      ],
       "email": "mariagonzalez@example.com",
-      "redesSociales": ["Facebook: María González", "Twitter: @mariagonz"]
+      "redesSociales": [
+        "Facebook: María González",
+        "Twitter: @mariagonz"
+      ]
     },
     "educacion": {
       "ensenanzaBasica": "Colegio San Martín",
       "ensenanzaMedia": "Liceo Nacional",
       "educacionUniversitaria": "Ingeniería en Informática",
-      "otros": ["Curso de desarrollo web", "Certificación en bases de datos"]
+      "otros": [
+        "Curso de desarrollo web",
+        "Certificación en bases de datos"
+      ]
     },
     "laboral": {
       "pasantia": [
@@ -223,8 +388,15 @@
         }
       ]
     },
-    "conocimientosTecnicos": ["Python", "React", "SQL"],
-    "interesesPersonales": ["Arte", "Viajes"]
+    "conocimientosTecnicos": [
+      "Python",
+      "React",
+      "SQL"
+    ],
+    "interesesPersonales": [
+      "Arte",
+      "Viajes"
+    ]
   },
   {
     "resumen": "Soy una ingeniera informática con experiencia en desarrollo de aplicaciones web y gestión de proyectos. Me encanta trabajar en equipo y enfrentar desafíos tecnológicos.",
@@ -232,15 +404,24 @@
       "nombre": "Carolina López",
       "cedula": "74125896",
       "direccion": "Calle Principal 456",
-      "telefonos": ["321-987-654", "789-123-456"],
+      "telefonos": [
+        "321-987-654",
+        "789-123-456"
+      ],
       "email": "carolinalopez@example.com",
-      "redesSociales": ["Facebook: Carolina López", "Twitter: @carolopez"]
+      "redesSociales": [
+        "Facebook: Carolina López",
+        "Twitter: @carolopez"
+      ]
     },
     "educacion": {
       "ensenanzaBasica": "Colegio San Miguel",
       "ensenanzaMedia": "Liceo Nacional",
       "educacionUniversitaria": "Ingeniería en Informática",
-      "otros": ["Curso de desarrollo de aplicaciones móviles", "Diplomado en gestión de proyectos"]
+      "otros": [
+        "Curso de desarrollo de aplicaciones móviles",
+        "Diplomado en gestión de proyectos"
+      ]
     },
     "laboral": {
       "pasantia": [
@@ -264,8 +445,15 @@
         }
       ]
     },
-    "conocimientosTecnicos": ["PHP", "JavaScript", "MySQL"],
-    "interesesPersonales": ["Fotografía", "Senderismo"]
+    "conocimientosTecnicos": [
+      "PHP",
+      "JavaScript",
+      "MySQL"
+    ],
+    "interesesPersonales": [
+      "Fotografía",
+      "Senderismo"
+    ]
   },
   {
     "resumen": "Soy un ingeniero informático especializado en ciberseguridad. Me apasiona proteger sistemas y datos contra amenazas cibernéticas. Tengo experiencia en auditorías de seguridad y gestión de incidentes.",
@@ -273,15 +461,24 @@
       "nombre": "Pedro Fernández",
       "cedula": "96587412",
       "direccion": "Calle Principal 987",
-      "telefonos": ["654-321-987", "789-123-456"],
+      "telefonos": [
+        "654-321-987",
+        "789-123-456"
+      ],
       "email": "pedrofernandez@example.com",
-      "redesSociales": ["Facebook: Pedro Fernández", "Twitter: @pedrofer"]
+      "redesSociales": [
+        "Facebook: Pedro Fernández",
+        "Twitter: @pedrofer"
+      ]
     },
     "educacion": {
       "ensenanzaBasica": "Colegio San Marcos",
       "ensenanzaMedia": "Liceo Nacional",
       "educacionUniversitaria": "Ingeniería en Informática",
-      "otros": ["Certificación en seguridad de redes", "Curso de hacking ético"]
+      "otros": [
+        "Certificación en seguridad de redes",
+        "Curso de hacking ético"
+      ]
     },
     "laboral": {
       "pasantia": [
@@ -301,49 +498,72 @@
         }
       ]
     },
-    "conocimientosTecnicos": ["Análisis de vulnerabilidades", "Gestión de incidentes", "Firewalls"],
-    "interesesPersonales": ["Programación", "Criptografía"]
-  },
-  {
-  "resumen": "Soy un desarrollador de software con experiencia en el desarrollo de aplicaciones web y móviles. Me apasiona crear soluciones tecnológicas innovadoras y trabajar en equipo para alcanzar los objetivos del proyecto.",
-  "datosPersonales": {
-    "nombre": "Juan Gomez",
-    "cedula": "12345678",
-    "direccion": "Calle Principal 123",
-    "telefonos": ["987-654-321", "789-123-456"],
-    "email": "juang@example.com",
-    "redesSociales": ["LinkedIn: Juan Gomez", "Twitter: @juang"]
-  },
-  "educacion": {
-    "ensenanzaBasica": "Colegio San José",
-    "ensenanzaMedia": "Liceo Nacional",
-    "educacionUniversitaria": "Ingeniería en Sistemas",
-    "otros": ["Certificación en Desarrollo de Aplicaciones Móviles", "Diplomado en Gestión de Proyectos"]
-  },
-  "laboral": {
-    "pasantia": [
-      {
-        "empresa": "ABC Solutions",
-        "descripción": "Desarrollador Junior"
-      },
-      {
-        "empresa": "XYZ Tech",
-        "descripción": "Analista de Sistemas"
-      }
+    "conocimientosTecnicos": [
+      "Análisis de vulnerabilidades",
+      "Gestión de incidentes",
+      "Firewalls"
     ],
-    "trabajos": [
-      {
-        "tipo": "Freelancer",
-        "descripción": "Desarrollo de aplicación web para cliente X"
-      },
-      {
-        "tipo": "Empleado",
-        "descripción": "Desarrollador Full Stack"
-      }
+    "interesesPersonales": [
+      "Programación",
+      "Criptografía"
     ]
   },
-  "conocimientosTecnicos": ["Java", "JavaScript", "HTML/CSS", "SQL"],
-  "interesesPersonales": ["Inteligencia Artificial", "Videojuegos"]
-}
-  
+  {
+    "resumen": "Soy un desarrollador de software con experiencia en el desarrollo de aplicaciones web y móviles. Me apasiona crear soluciones tecnológicas innovadoras y trabajar en equipo para alcanzar los objetivos del proyecto.",
+    "datosPersonales": {
+      "nombre": "Juan Gomez",
+      "cedula": "12345678",
+      "direccion": "Calle Principal 123",
+      "telefonos": [
+        "987-654-321",
+        "789-123-456"
+      ],
+      "email": "juang@example.com",
+      "redesSociales": [
+        "LinkedIn: Juan Gomez",
+        "Twitter: @juang"
+      ]
+    },
+    "educacion": {
+      "ensenanzaBasica": "Colegio San José",
+      "ensenanzaMedia": "Liceo Nacional",
+      "educacionUniversitaria": "Ingeniería en Sistemas",
+      "otros": [
+        "Certificación en Desarrollo de Aplicaciones Móviles",
+        "Diplomado en Gestión de Proyectos"
+      ]
+    },
+    "laboral": {
+      "pasantia": [
+        {
+          "empresa": "ABC Solutions",
+          "descripción": "Desarrollador Junior"
+        },
+        {
+          "empresa": "XYZ Tech",
+          "descripción": "Analista de Sistemas"
+        }
+      ],
+      "trabajos": [
+        {
+          "tipo": "Freelancer",
+          "descripción": "Desarrollo de aplicación web para cliente X"
+        },
+        {
+          "tipo": "Empleado",
+          "descripción": "Desarrollador Full Stack"
+        }
+      ]
+    },
+    "conocimientosTecnicos": [
+      "Java",
+      "JavaScript",
+      "HTML/CSS",
+      "SQL"
+    ],
+    "interesesPersonales": [
+      "Inteligencia Artificial",
+      "Videojuegos"
+    ]
+  }
 ]
