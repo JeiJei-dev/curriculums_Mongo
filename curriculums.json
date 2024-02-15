@@ -1,122 +1,349 @@
 [
   {
-    "nombre": "María",
-    "apellido": "González",
-    "edad": 30,
-    "sexo": "Femenino",
-    "educacion": "Ingenieria",
-    "area": "Ingeniera Industrial",
-    "cedula_identidad": 21868741,
-    "resumen": "Soy una ingeniera industrial apasionada por la optimización de procesos y la mejora continua. Tengo experiencia en el diseño e implementación de soluciones eficientes para la industria. Me considero una persona proactiva, creativa y orientada a resultados.",
-    "conocimientos_tecnicos": "Gestión de proyectos, análisis de datos, mejora de procesos, Lean Manufacturing, Six Sigma",
-    "intereses_personales": "Me gusta mantenerme actualizada en las últimas tendencias de la industria, disfruto de la lectura y practico yoga en mi tiempo libre."
+    "resumen": "Soy un desarrollador apasionado por la tecnología y la innovación, con experiencia en proyectos diversos y habilidades técnicas sólidas.",
+    "datosPersonales": {
+      "nombre": "Juan Pérez",
+      "cedula": "28456928",
+      "direccion": "Calle Principal 123",
+      "telefonos": ["123-456-789", "987-654-321"],
+      "email": "juanperez@example.com",
+      "redesSociales": ["Facebook: Juanito Pérez", "Twitter: @juanito"]
+    },
+    "educacion": {
+      "ensenanzaBasica": "Colegio San José",
+      "ensenanzaMedia": "Liceo Nacional",
+      "educacionUniversitaria": "Ingeniería en Informática",
+      "otros": ["Curso de programación", "Curso de inglés"]
+    },
+    "laboral": {
+      "pasantia": [
+        {"empresa": "ABC Tech", "descripción": "Desarrollador Junior"},
+        {"empresa": "XYZ Software", "descripción": "Analista de Datos"}
+      ],
+      "trabajos": [
+        {"tipo": "Freelancer", "descripción": "Desarrollo de sitio web para cliente X"},
+        {"tipo": "Empleado", "descripción": "Desarrollador Full Stack"}
+      ]
+    },
+    "conocimientosTecnicos": ["JavaScript", "HTML", "CSS"],
+    "interesesPersonales": ["Música", "Deporte"]
   },
   {
-    "nombre": "Juan",
-    "apellido": "Rodríguez",
-    "edad": 28,
-    "sexo": "Masculino",
-    "educacion": "Maestría",
-    "area": "Arquitecto",
-    "cedula_identidad": 22077002,
-    "resumen": "Soy un arquitecto apasionado por el diseño innovador y sostenible. Tengo experiencia en la creación de espacios funcionales y estéticamente atractivos. Me considero una persona detallista, creativa y comprometida con la calidad en cada proyecto.",
-    "conocimientos_tecnicos": "Diseño arquitectónico, modelado 3D, AutoCAD, Revit, gestión de proyectos",
-    "intereses_personales": "Me encanta explorar nuevas corrientes arquitectónicas y visitar edificios icónicos alrededor del mundo. También disfruto de la fotografía y la pintura en mi tiempo libre."
+    "resumen": "Soy una diseñadora gráfica creativa y apasionada por el arte visual. Tengo experiencia en el diseño de logotipos, materiales publicitarios y diseño web.",
+    "datosPersonales": {
+      "nombre": "María López",
+      "cedula": "29874563",
+      "direccion": "Avenida Principal 456",
+      "telefonos": ["234-567-890", "876-543-210"],
+      "email": "marialopez@example.com",
+      "redesSociales": ["Instagram: @marialopez", "Behance: María López"]
+    },
+    "educacion": {
+      "ensenanzaBasica": "Colegio San Lucas",
+      "ensenanzaMedia": "Liceo Nacional",
+      "educacionUniversitaria": "Diseño Gráfico",
+      "otros": ["Curso de ilustración", "Curso de fotografía"]
+    },
+    "laboral": {
+      "pasantia": [
+        {"empresa": "Creative Design Studio", "descripción": "Diseñadora Junior"},
+        {"empresa": "Big Advertising Agency", "descripción": "Diseñadora Gráfica"}
+      ],
+      "trabajos": [
+        {"tipo": "Freelancer", "descripción": "Diseño de logotipos para diversos clientes"},
+        {"tipo": "Empleado", "descripción": "Diseñadora Web"}
+      ]
+    },
+    "conocimientosTecnicos": ["Adobe Photoshop", "Adobe Illustrator", "Diseño web"],
+    "interesesPersonales": ["Arte", "Viajes"]
   },
   {
-    "nombre": "Luisa",
-    "apellido": "Martínez",
-    "edad": 35,
-    "sexo": "Femenino",
-    "educacion": "Doctorado",
-    "area": "Doctora en Medicina",
-    "cedula_identidad": 23120853,
-    "resumen": "Soy una doctora en medicina especializada en medicina interna. Tengo experiencia en el diagnóstico y tratamiento de diversas enfermedades. Me considero una persona empática, dedicada y comprometida con brindar la mejor atención médica a mis pacientes.",
-    "conocimientos_tecnicos": "Diagnóstico médico, tratamiento de enfermedades, medicina interna, investigación clínica",
-    "intereses_personales": "Me apasiona la medicina basada en evidencia y estoy siempre en busca de nuevas terapias y avances médicos. En mi tiempo libre, disfruto de la lectura y la práctica de actividades al aire libre."
+    "resumen": "Soy un ingeniero civil con experiencia en el diseño y construcción de estructuras de gran envergadura. Me apasiona la ingeniería y la resolución de desafíos técnicos.",
+    "datosPersonales": {
+      "nombre": "Pedro Ramírez",
+      "cedula": "31547896",
+      "direccion": "Carrera Principal 789",
+      "telefonos": ["345-678-901", "765-432-109"],
+      "email": "pedroramirez@example.com",
+      "redesSociales": ["LinkedIn: Pedro Ramírez", "Twitter: @pedroramirez"]
+    },
+    "educacion": {
+      "ensenanzaBasica": "Colegio San Marcos",
+      "ensenanzaMedia": "Liceo Nacional",
+      "educacionUniversitaria": "Ingeniería Civil",
+      "otros": ["Curso de cálculo estructural", "Curso de gestión de proyectos"]
+    },
+    "laboral": {
+      "pasantia": [
+        {"empresa": "Construction Engineering Firm", "descripción": "Ingeniero Junior"},
+        {"empresa": "Big Construction Company", "descripción": "Ingeniero Civil"}
+      ],
+      "trabajos": [
+        {"tipo": "Freelancer", "desarrollo de proyectos de construcción para clientes"},
+        {"tipo": "Empleado", "descripción": "Ingeniero de Estructuras"}
+      ]
+    },
+    "conocimientosTecnicos": ["AutoCAD", "Análisis estructural", "Gestión de proyectos"],
+    "interesesPersonales": ["Arquitectura", "Senderismo"]
   },
   {
-    "nombre": "Carlos",
-    "apellido": "López",
-    "edad": 32,
-    "sexo": "Masculino",
-    "educacion": "Licenciatura",
-    "area": "Abogado",
-    "cedula_identidad": 24000004,
-    "resumen": "Soy un abogado con experiencia en derecho corporativo y resolución de conflictos. Tengo habilidades para el análisis legal y la redacción de documentos legales. Me considero una persona organizada, analítica y con una gran capacidad de negociación.",
-    "conocimientos_tecnicos": "Derecho corporativo, contratos, resolución de conflictos, redacción legal, negociación",
-    "intereses_personales": "Me interesa estar al tanto de los cambios en las leyes y regulaciones. Fuera del ámbito legal, disfruto de la música y soy aficionado al fútbol."
+    "resumen": "Soy una periodista apasionada por la comunicación y la investigación. Tengo experiencia en la redacción de noticias, reportajes y entrevistas.",
+    "datosPersonales": {
+      "nombre": "Ana Gómez",
+      "cedula": "27894561",
+      "direccion": "Plaza Principal 987",
+      "telefonos": ["456-789-012", "654-321-098"],
+      "email": "anagomez@example.com",
+      "redesSociales": ["Twitter: @anagomez", "LinkedIn: Ana Gómez"]
+    },
+    "educacion": {
+      "ensenanzaBasica": "Colegio San Juan",
+      "ensenanzaMedia": "Liceo Nacional",
+      "educacionUniversitaria": "Comunicación Social",
+      "otros": ["Curso de periodismo investigativo", "Curso de edición de video"]
+    },
+    "laboral": {
+      "pasantia": [
+        {"empresa": "Local News Channel", "descripción": "Periodista en formación"},
+        {"empresa": "National Newspaper", "descripción": "Periodista Investigativa"}
+      ],
+      "trabajos": [
+        {"tipo": "Freelancer", "descripción": "Redacción de artículos para revistas"},
+        {"tipo": "Empleado", "descripción": "Periodista de noticias"}
+      ]
+    },
+    "conocimientosTecnicos": ["Redacción", "Investigación periodística", "Edición de video"],
+    "interesesPersonales": ["Literatura", "Fotografía"]
   },
   {
-    "nombre": "Ana",
-    "apellido": "Sánchez",
-    "edad": 27,
-    "sexo": "Femenino",
-    "educacion": "Licenciatura",
-    "area": "Contadora Pública",
-    "cedula_identidad": 25644845,
-    "resumen": "Soy una contadora pública con experiencia en auditoría y gestión financiera. Tengo habilidades analíticas y una sólida comprensión de los principios contables. Me considero una persona meticulosa, comprometida yenfocada en brindar información financiera precisa y oportuna.",
-    "conocimientos_tecnicos": "Auditoría financiera, contabilidad, análisis financiero, gestión presupuestaria, software contable",
-    "intereses_personales": "Me gusta estar al tanto de las actualizaciones en las normas contables y las tendencias en el campo financiero. Fuera del trabajo, disfruto de la cocina y la práctica de deportes como el tenis."
+    "resumen": "Soy un chef con experiencia en la cocina internacional y una pasión por la creación de platos únicos y deliciosos. Me encanta experimentar con nuevos ingredientes y técnicas culinarias.",
+    "datosPersonales": {
+      "nombre": "Carlos Fernández",
+      "cedula": "23781456",
+      "direccion": "Avenida Principal 654",
+      "telefonos": ["567-890-123", "765-432-109"],
+      "email": "carlosfernandez@example.com",
+      "redesSociales": ["Instagram: @carlosfernandez", "Facebook: Chef Carlos"]
+    },
+    "educacion": {
+      "ensenanzaBasica": "Colegio San Miguel",
+      "ensenanzaMedia": "Liceo Nacional",
+      "educacionUniversitaria": "Culinaria Internacional",
+      "otros": ["Curso de pastelería", "Curso de enología"]
+    },
+    "laboral": {
+      "pasantia": [
+        {"empresa": "Fine Dining Restaurant", "descripción": "Chef en formación"},
+        {"empresa": "Gourmet Catering Company", "descripción": "Chef Ejecutivo"}
+      ],
+      "trabajos": [
+        {"tipo": "Freelancer", "descripción": "Catering para eventos especiales"},
+        {"tipo": "Empleado", "descripción": "Chef de cocina en restaurante"}
+      ]
+    },
+    "conocimientosTecnicos": ["Cocina francesa", "Cocina asiática", "Pastelería"],
+    "interesesPersonales": ["Viajes", "Enología"]
   },
   {
-    "nombre": "Pedro",
-    "apellido": "Ramírez",
-    "edad": 31,
-    "sexo": "Masculino",
-    "educacion": "Maestría",
-    "area": "Ingeniero de Sistemas",
-    "cedula_identidad": 26066766,
-    "resumen": "Soy un ingeniero de sistemas especializado en el desarrollo de software. Tengo experiencia en la creación de aplicaciones web y móviles. Me considero una persona creativa, orientada a resultados y apasionada por la resolución de problemas tecnológicos.",
-    "conocimientos_tecnicos": "Desarrollo de software, programación, bases de datos, diseño de interfaces, metodologías ágiles",
-    "intereses_personales": "Estoy interesado en la inteligencia artificial y la implementación de tecnologías emergentes. En mi tiempo libre, disfruto de los videojuegos y la práctica de deportes al aire libre."
+    "resumen": "Soy un ingeniero informático con experiencia en desarrollo de software y administración de bases de datos. Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos desafiantes.",
+    "datosPersonales": {
+      "nombre": "Ana Martínez",
+      "cedula": "45896321",
+      "direccion": "Avenida Principal 789",
+      "telefonos": ["987-654-321", "123-456-789"],
+      "email": "anamartinez@example.com",
+      "redesSociales": ["Facebook: Ana Martínez", "Twitter: @anamart"]
+    },
+    "educacion": {
+      "ensenanzaBasica": "Colegio San Juan",
+      "ensenanzaMedia": "Liceo Nacional",
+      "educacionUniversitaria": "Ingeniería en Informática",
+      "otros": ["Curso de desarrollo de aplicaciones móviles", "Certificación en gestión de proyectos"]
+    },
+    "laboral": {
+      "pasantia": [
+        {
+          "empresa": "MNO Solutions",
+          "descripción": "Desarrollador Junior"
+        },
+        {
+          "empresa": "PQR Tech",
+          "descripción": "Analista de Datos"
+        }
+      ],
+      "trabajos": [
+        {
+          "tipo": "Freelancer",
+          "descripción": "Desarrollo de plataforma e-commerce para cliente Z"
+        },
+        {
+          "tipo": "Empleado",
+          "descripción": "Desarrollador Backend"
+        }
+      ]
+    },
+    "conocimientosTecnicos": ["Java", "SQL", "AWS"],
+    "interesesPersonales": ["Literatura", "Cocina"]
   },
   {
-    "nombre": "Laura",
-    "apellido": "Torres",
-    "edad": 29,
-    "sexo": "Femenino",
-    "educacion": "Doctorado",
-    "area": "Investigadora Científica",
-    "cedula_identidad": 27250487,
-    "resumen": "Soy una investigadora científica con experiencia en biología molecular y genética. He participado en proyectos de investigación y publicado artículos científicos. Me considero una persona curiosa, metódica y comprometida con el avance del conocimiento científico.",
-    "conocimientos_tecnicos": "Biología molecular, genética, técnicas de laboratorio, análisis de datos, publicación científica",
-    "intereses_personales": "Me apasiona la investigación en áreas de vanguardia y el descubrimiento de nuevos avances científicos. Fuera del laboratorio, disfruto de la lectura y la práctica de actividades al aire libre."
+    "resumen": "Soy una ingeniera informática con pasión por la programación y las soluciones tecnológicas innovadoras. Me enfoco en el desarrollo web y tengo experiencia trabajando en proyectos desafiantes.",
+    "datosPersonales": {
+      "nombre": "María González",
+      "cedula": "29874563",
+      "direccion": "Avenida Principal 456",
+      "telefonos": ["321-654-987", "789-456-123"],
+      "email": "mariagonzalez@example.com",
+      "redesSociales": ["Facebook: María González", "Twitter: @mariagonz"]
+    },
+    "educacion": {
+      "ensenanzaBasica": "Colegio San Martín",
+      "ensenanzaMedia": "Liceo Nacional",
+      "educacionUniversitaria": "Ingeniería en Informática",
+      "otros": ["Curso de desarrollo web", "Certificación en bases de datos"]
+    },
+    "laboral": {
+      "pasantia": [
+        {
+          "empresa": "DEF Solutions",
+          "descripción": "Desarrollador Junior"
+        },
+        {
+          "empresa": "GHI Tech",
+          "descripción": "Analista de Sistemas"
+        }
+      ],
+      "trabajos": [
+        {
+          "tipo": "Freelancer",
+          "descripción": "Desarrollo de aplicación móvil para cliente Y"
+        },
+        {
+          "tipo": "Empleado",
+          "descripción": "Desarrollador Frontend"
+        }
+      ]
+    },
+    "conocimientosTecnicos": ["Python", "React", "SQL"],
+    "interesesPersonales": ["Arte", "Viajes"]
   },
   {
-    "nombre": "Miguel",
-    "apellido": "Hernández",
-    "edad": 33,
-    "sexo": "Masculino",
-    "educacion": "Doctorado",
-    "area": "Doctor en Economía",
-    "cedula_identidad": 28009978,
-    "resumen": "Soy un economista especializado en análisis económico. Tengo experiencia en el análisis de datos, modelado económico y formulación de políticas. Me considero una persona analítica, orientada a resultados y comprometida con el desarrollo económico sostenible.",
-    "conocimientos_tecnicos": "Análisis económico, modelado económico, estadística, formulación de políticas, software económico",
-    "intereses_personales": "Me interesan las tendencias económicas globales y los impactos de las políticas públicas. Fuera del ámbito económico, disfruto de la música y la práctica del senderismo."
+    "resumen": "Soy una ingeniera informática con experiencia en desarrollo de aplicaciones web y gestión de proyectos. Me encanta trabajar en equipo y enfrentar desafíos tecnológicos.",
+    "datosPersonales": {
+      "nombre": "Carolina López",
+      "cedula": "74125896",
+      "direccion": "Calle Principal 456",
+      "telefonos": ["321-987-654", "789-123-456"],
+      "email": "carolinalopez@example.com",
+      "redesSociales": ["Facebook: Carolina López", "Twitter: @carolopez"]
+    },
+    "educacion": {
+      "ensenanzaBasica": "Colegio San Miguel",
+      "ensenanzaMedia": "Liceo Nacional",
+      "educacionUniversitaria": "Ingeniería en Informática",
+      "otros": ["Curso de desarrollo de aplicaciones móviles", "Diplomado en gestión de proyectos"]
+    },
+    "laboral": {
+      "pasantia": [
+        {
+          "empresa": "STU Systems",
+          "descripción": "Desarrollador Junior"
+        },
+        {
+          "empresa": "VWX Tech",
+          "descripción": "Analista de Sistemas"
+        }
+      ],
+      "trabajos": [
+        {
+          "tipo": "Freelancer",
+          "descripción": "Desarrollo de sistema de reservas para hotel X"
+        },
+        {
+          "tipo": "Empleado",
+          "descripción": "Desarrollador Frontend"
+        }
+      ]
+    },
+    "conocimientosTecnicos": ["PHP", "JavaScript", "MySQL"],
+    "interesesPersonales": ["Fotografía", "Senderismo"]
   },
   {
-    "nombre": "Valeria",
-    "apellido": "Pérez",
-    "edad": 26,
-    "sexo": "Femenino",
-    "educacion": "Licenciatura",
-    "area": "Psicóloga",
-    "cedula_identidad": 29000009,
-    "resumen": "Soy una psicóloga con experiencia en terapia individual y grupal. Tengo habilidades para el diagnóstico y tratamiento de trastornos mentales. Me considero una persona empática, compasiva y dedicada a ayudar a los demás en su bienestar psicológico.",
-    "conocimientos_tecnicos": "Terapia psicológica, evaluación psicológica, trastornos mentales, técnicas de intervención",
-    "intereses_personales": "Me interesa la psicología positiva y el desarrollo personal. Fuera del trabajo, disfruto de la música y la práctica de actividades al aire libre."
+    "resumen": "Soy un ingeniero informático especializado en ciberseguridad. Me apasiona proteger sistemas y datos contra amenazas cibernéticas. Tengo experiencia en auditorías de seguridad y gestión de incidentes.",
+    "datosPersonales": {
+      "nombre": "Pedro Fernández",
+      "cedula": "96587412",
+      "direccion": "Calle Principal 987",
+      "telefonos": ["654-321-987", "789-123-456"],
+      "email": "pedrofernandez@example.com",
+      "redesSociales": ["Facebook: Pedro Fernández", "Twitter: @pedrofer"]
+    },
+    "educacion": {
+      "ensenanzaBasica": "Colegio San Marcos",
+      "ensenanzaMedia": "Liceo Nacional",
+      "educacionUniversitaria": "Ingeniería en Informática",
+      "otros": ["Certificación en seguridad de redes", "Curso de hacking ético"]
+    },
+    "laboral": {
+      "pasantia": [
+        {
+          "empresa": "XYZ Security",
+          "descripción": "Analista de Seguridad"
+        },
+        {
+          "empresa": "ABC Consultores",
+          "descripción": "Consultor de Ciberseguridad"
+        }
+      ],
+      "trabajos": [
+        {
+          "tipo": "Empleado",
+          "descripción": "Especialista en Ciberseguridad"
+        }
+      ]
+    },
+    "conocimientosTecnicos": ["Análisis de vulnerabilidades", "Gestión de incidentes", "Firewalls"],
+    "interesesPersonales": ["Programación", "Criptografía"]
   },
   {
-  "nombre": "Javier",
-  "apellido": "García",
-  "edad": 34,
-  "sexo": "Masculino",
-  "educacion": "Maestría",
-  "area": "Diseñador Gráfico",
-  "cedula_identidad": 30123456,
-  "resumen": "Soy un diseñador gráfico creativo y apasionado con experiencia en diseño de logotipos, branding y diseño de interfaces. Tengo habilidades en el uso de herramientas de diseño gráfico y una sólida comprensión de los principios de diseño. Me considero una persona detallista, orientada a los detalles y comprometida con la creación de diseños visuales impactantes.",
-  "conocimientos_tecnicos": "Diseño gráfico, Adobe Creative Suite, diseño de logotipos, diseño de interfaces, branding",
-  "intereses_personales": "Me gusta estar al tanto de las últimas tendencias en diseño y explorar nuevas técnicas y enfoques creativos. En mi tiempo libre, disfruto de la ilustración y la práctica de deportes como el ciclismo."
-  }
+  "resumen": "Soy un desarrollador de software con experiencia en el desarrollo de aplicaciones web y móviles. Me apasiona crear soluciones tecnológicas innovadoras y trabajar en equipo para alcanzar los objetivos del proyecto.",
+  "datosPersonales": {
+    "nombre": "Juan Gomez",
+    "cedula": "12345678",
+    "direccion": "Calle Principal 123",
+    "telefonos": ["987-654-321", "789-123-456"],
+    "email": "juang@example.com",
+    "redesSociales": ["LinkedIn: Juan Gomez", "Twitter: @juang"]
+  },
+  "educacion": {
+    "ensenanzaBasica": "Colegio San José",
+    "ensenanzaMedia": "Liceo Nacional",
+    "educacionUniversitaria": "Ingeniería en Sistemas",
+    "otros": ["Certificación en Desarrollo de Aplicaciones Móviles", "Diplomado en Gestión de Proyectos"]
+  },
+  "laboral": {
+    "pasantia": [
+      {
+        "empresa": "ABC Solutions",
+        "descripción": "Desarrollador Junior"
+      },
+      {
+        "empresa": "XYZ Tech",
+        "descripción": "Analista de Sistemas"
+      }
+    ],
+    "trabajos": [
+      {
+        "tipo": "Freelancer",
+        "descripción": "Desarrollo de aplicación web para cliente X"
+      },
+      {
+        "tipo": "Empleado",
+        "descripción": "Desarrollador Full Stack"
+      }
+    ]
+  },
+  "conocimientosTecnicos": ["Java", "JavaScript", "HTML/CSS", "SQL"],
+  "interesesPersonales": ["Inteligencia Artificial", "Videojuegos"]
+}
+  
 ]
