@@ -12,7 +12,7 @@ def create(records):
 def read(records):
     query = loads(input("Type your Query: "))
     res = records.find(query)
-    
+
     for value in res:
         print(value)
 
