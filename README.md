@@ -76,3 +76,29 @@ El Proyecto incluye la elaboración de Informe en el que el equipo demuestre el 
   interesesPersonales: ["Música", "Deporte"]
 }
 
+## Scripts de Mongo
+
+### Crear Base
+
+use curriculums
+
+### Crear Colecciones
+:curriculums_Mongo> db.curriculums.insertOne({resumen: "Soy un desarrollador apasionado por la tecnología y la innovación, con experiencia en proyectos diversos y habilidades técnicas sólidas.",datosPersonales: {nombre: "Juan Pérez",cedula: "28456928", direccion: "Calle Principal 123", telefonos: ["123-456-789", "987-654-321"], email: "juanperez@example.com", redesSociales: ["Facebook: Juanito Pérez", "Twitter: @juanito"]}, educacion: { ensenanzaBasica: "Colegio San José", ensenanzaMedia: "Liceo Nacional", educacionUniversitaria: "Ingeniería en Informática", otros: ["Curso de programación", "Curso de ingles"]}, laboral: { pasantia: [ { empresa: "ABC Tech", descripción: "Desarrollador Junior" }, { empresa: "XYZ Software", descripción: "Analista de Datos" } ], trabajos: [ { tipo: "Freelancer", descripción: "Desarrollo de sitio web para cliente X" }, { tipo: "Empleado", descripción: "Desarrollador Full Stack" }]}, conocimientosTecnicos: ["JavaScript", "Html", "Css"], interesesPersonales: ["Música", "Deporte"]})
+
+### Operaciones
+CREAR
+  db.curriculums.insertOne()
+
+LEER
+  db.curriculums.find()
+
+  db.curriculums.find({"datosPersonales.cedula": "12345678"}, {"datosPersonales.nombre" : 1, "resumen": 1, "cedula":1})
+
+BORRAR
+
+  db.curriculums.deleteOne({_id: ObjectId("65ce62855e3d6f48b0c63c4a")})
+
+MODIFICAR
+
+  db.curriculums.updateOne({"datosPersonales.cedula": "12345678"}, {$set: {"datosPersonales.nombre": "PRUEBA"}})
+
