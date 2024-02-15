@@ -9,6 +9,8 @@ def create(records):
             value = loads(option)
             vals.append(value)
 
+    records.insert_many(vals)
+
 def read(records):
     query = loads(input("Type your Query: "))
     res = records.find(query)
@@ -17,13 +19,16 @@ def read(records):
         print(value)
 
 def update(records):
-    pass
+    query = loads(input("Insert the query: "))
+    vals = loads(input("Type the values: "))
+    records.update_many(query, {"$set": vals})
 
 def delete(records):
-    pass
+    query = loads(input("Insert the query: "))
+    records.delete_many(query)
 
 def upload_file(records):
-    file_name = "curriculums.json" # input("Enter the file name: ")
+    file_name = "curriculums.json"
     with open(file_name) as file:
         res = loads(file.read())
         res = records.insert_many(res)
